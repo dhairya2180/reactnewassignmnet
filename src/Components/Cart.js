@@ -50,7 +50,7 @@ const Cart = (porps) => {
         <div className="ss">
           <h1>Plese Add  Items!!</h1>
           <button>
-            <Link to="/product">GO to add feature branch Product</Link>
+            <Link to="/product">GO  Product</Link>
           </button>
         </div>
       ) : (
