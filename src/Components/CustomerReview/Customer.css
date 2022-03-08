@@ -1,0 +1,10 @@
+.w{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    
+}
+.img{
+    border-radius: 90%;
+}
